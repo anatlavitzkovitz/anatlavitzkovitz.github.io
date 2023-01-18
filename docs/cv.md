@@ -1,125 +1,83 @@
-__Anat Lavi-Itzkovitz, Ph.D.__
-
+# __Anat Lavi-Itzkovitz, Ph.D.__
 Highly experienced and motivated bioinformatician with strong background in experimental biology. Expertise include R and Python programming, NGS analysis, pipeline development, MySQL and hands-on experience in molecular biology and biochemistry
 
 
 ## Personal details
 
-Date of birth: 27.10.78    |    Address: 2 Yosephzon Street, Rehovot    |    Telephone: 054-2061680
-
 Email: anat.lavitz@gmail.com
 
-Education
+## Education
 
-2014-2017	 Postdoctoral Fellow at Bar-Ilan University, Faculty of Medicine/Engineering 
+++2014-2017++	    :Postdoctoral Fellow at Bar-Ilan University, Faculty of Medicine/Engineering 
 
-2010-2012 	 Postdoctoral Fellow at the FAS center for Systems Biology, Physics Department,  
-
-  		 Harvard University, Cambridge, USA
+++2010-2012++ 	    Postdoctoral Fellow at the FAS center for Systems Biology, Physics Department,  
+Harvard University, Cambridge, USA
 		 
-2005-2009    Ph.D. at the Weizmann Institute of Science, Department of Biological Chemistry
+++2005-2009++       Ph.D. at the Weizmann Institute of Science, Department of Biological Chemistry
 
-2002-2004    M.Sc. at Tel-Aviv University, Department of Biochemistry, magna cum laude
+++2002-2004++       M.Sc. at Tel-Aviv University, Department of Biochemistry, magna cum laude
 
-1999-2002    B.Sc. in Life sciences at Tel-Aviv University
+++1999-2002++       B.Sc. in Life sciences at Tel-Aviv University
 
 
 ## Professional experience 
-
-*Bioinformatician at Hazera seeds*								                    2018-
-
-Hazera is a global leader in the seed industry. The company breeds, develops, produces and markets   
-varieties and seeds in a wide range of vegetable crops around the world
-
+**Bioinformatician at Hazera seeds**    					                                   2018-
 -	Lead and support global and internal R&D projects
--	
 -	Develop analysis pipelines for NGS data
--	
 -	Write scripts for data download, analysis, and statistics
--	
 
-*Researcher at Augmanity Nano* 											    2017-2018
+**Researcher at Augmanity Nano**				         					   2017-2018
+-   developed the bioinformatics pipeline for NGS analysis
+-   designed and managed MySQL database
+-   Developed customized Python script for drug discovery platform
 
-Augmanity Nano is an innovative start-up company developing personalized drugs
-
--     developed the bioinformatics pipeline for NGS analysis
--     designed and managed MySQL database
--     Developed customized Python script for drug discovery platform
-
-
-*Postdoctoral Fellow at Bar-Ilan University, Faculty of Medicine/Engineering*		                           2014-2017 
-
+**Postdoctoral Fellow at Bar-Ilan University, Faculty of Medicine/Engineering**	                                   2014-2017 
 Supervisors: Dr. Meital Gal-Tanami and Prof. Gur Yaari 
-
 Topic: Analysis of Next Generation Sequencing data from human liver cancer samples
+-    Developed a bioinformatic pipeline for analysis of genomic sequencing data
+-    Multivariate data analysis
 
-	  -      Developed a bioinformatic pipeline for analysis of genomic sequencing data
-	  
-	  -      Multivariate data analysis
-
-Senior Researcher at Arthritis lab, Institute of Rheumatology, Tel-Aviv Sourasky medical 	                   2013
+**Senior Researcher at Arthritis lab, Institute of Rheumatology, Tel-Aviv Sourasky medical**	                   2013
 -	Lab research and management 
 
-
-*Postdoctoral Fellow at Harvard University, FAS center for Systems Biology*		    	                   2010-2012
-
+**Postdoctoral Fellow at Harvard University, FAS center for Systems Biology**		    	                   2010-2012
 Supervisor: Prof. Erel Levine
-
 Topic: sRNA regulation in bacteria and stem cell dynamics in C. elegans
+-    Data analysis
+-    MATLAB programming
+-    Provided technical expertise in Molecular biology, training students
 
-	-     Data analysis
-	
-	-     MATLAB programming
-	
-	-     Provided technical expertise in Molecular biology, training students
-
-
-*PhD at Weizmann Institute of Science*             						                   2005-2009
-
+**PhD at Weizmann Institute of Science**        						                   2005-2009
 Supervisor: Prof. Michael Fainzilber	
-
 Topic: Network analysis and intercellular interactions of Necdin, a gene involved in a neurogenetic disorder in humans
 
-	-     Used Molecular Biology and Biochemistry techniques, optimized protocols
-	
-	-     Characterized new protein interactions both experimentally and computationally
-	
-	-     Extensive experience with microscopy systems
+-    Used Molecular Biology and Biochemistry techniques, optimized protocols
+-    Characterized new protein interactions both experimentally and computationally
+-    Extensive experience with microscopy systems
  
-*Student instructor in Tel-Aviv University, Department of Biochemistry*				                  2003-2004
-
+**Student instructor in Tel-Aviv University, Department of Biochemistry**				           2003-2004
 Biochemistry lab course
 
-*MSc at Tel-Aviv University, Department of Biochemistry*	 				                  2002-2004
- 
+**MSc at Tel-Aviv University, Department of Biochemistry**	 				                   2002-2004
 Supervisor: Prof. Nathan Nelson
-
 Topic: Structural biology of membrane proteins over-expressed in bacteria
+-    Developed protocols for membrane protein purification
+-    Participated in patent writing 
 
-	-     Developed protocols for membrane protein purification
-	
-	-     Participated in patent writing 
-
-*Research assistant at Tel-Aviv University, Department of Biochemistry*   			                      2002
-
+**assistant at Tel-Aviv University, Department of Biochemistry**			                      2002
 Supervisor: Prof. Nathan Nelson
-
 Topic: The role of unit V in the function of V-ATPase in yeast
 
-*Research assistant at Tel-Aviv University, Department of Plant Sciences*				              2001
-
+**Research assistant at Tel-Aviv University, Department of Plant Sciences**				              2001
 Supervisor: Prof. Nir Ohad
-
 Topic: The role of polycomb genes in tomato development
 
 ## Technical skills
-<ins>Computation and bioinformatics:<ins/> Python, R, Linux, NGS analysis from both Illumina and Oxford Nanopore Technologies sequencing, Bash scripting, experience in cloud-based environment, Git repository, statistical data analysis, public databases (UCSC, Cosmic, Ensembl, HMP, dbSNP), microbiome analysis (MetaPhlAn, De Novo assembly tools), clustering analysis, biological network analysis (IntAct, VisANT), LaTeX. 
-	
-<ins>Molecular Biology:<ins/> Molecular cloning, Gateway cloning, site-directed mutagenesis, gel electrophoresis, PCR, qPCR, DNA and RNA purification from different organisms   ‬‬‬‬‬‬‬‬‬‬‬‬‬‬
-<ins>Biochemistry:<ins/> Western Blots, SDS-PAGE, immunoprecipitation, recombinant protein expression and   ‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+++Computation and bioinformatics:++ Python, R, Linux, NGS analysis from both Illumina and Oxford Nanopore Technologies sequencing, Bash scripting, experience in cloud-based environment, Git repository, statistical data analysis, public databases (UCSC, Cosmic, Ensembl, HMP, dbSNP), microbiome analysis (MetaPhlAn, De Novo assembly tools), clustering analysis, biological network analysis (IntAct, VisANT), LaTeX. 
+++Molecular Biology:++ Molecular cloning, Gateway cloning, site-directed mutagenesis, gel electrophoresis, PCR, qPCR, DNA and RNA purification from different organisms   ‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+++Biochemistry:++ Western Blots, SDS-PAGE, immunoprecipitation, recombinant protein expression and   ‬‬‬‬‬‬‬‬‬‬‬‬‬‬
 purification (affinity purification, ion-exchange), sucrose gradient, protein- ‬‬‬‬‬‬protein interaction screen in yeast 
-	
-<ins>Cell Biology:<ins/> Cell culture, transfections, plant tissue culture and transformation, immunofluorescence, epifluorescence and   ‬‬‬‬‬‬‬‬‬confocal microscopy and analysis, live cell imaging, RNAi, flow cytometry, ‬‬‬‬‬‬‬‬‬‬‬‬‬viability assays, C. elegans techniques
+++Cell Biology:++ Cell culture, transfections, plant tissue culture and transformation, immunofluorescence, epifluorescence and   ‬‬‬‬‬‬‬‬‬confocal microscopy and analysis, live cell imaging, RNAi, flow cytometry, ‬‬‬‬‬‬‬‬‬‬‬‬‬viability assays, C. elegans techniques
 
 ## Publications and patents
 	
@@ -134,10 +92,3 @@ purification (affinity purification, ion-exchange), sucrose gradient, protein- �
 5. Lavi-Itzkovitz A., Tcherpakov M., Levy Z., Itzkovitz S., Muscatelli F. and Fainzilber M., “Functional Consequences of Necdin Nucleocytoplasmic Localization", PLoS ONE, 7(3), e33786 (2012)
 	
 6. Nelson N., Lavi-Itzkovitz A., Leviatan S., "Soluble fusion proteins comprising heterologous polypeptides" U.S. Patent 7,989,183
-
-
-## Military service
-	
-Full military service at an R&D unit of the ministry of defense	         	             			        1997-1998
-
-
