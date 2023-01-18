@@ -7,6 +7,7 @@ Highly experienced and motivated bioinformatician with strong background in expe
 Email: anat.lavitz@gmail.com
 
 ## Education
+<ins>Process include:<ins/>
 
 ++2014-2017++	    :Postdoctoral Fellow at Bar-Ilan University, Faculty of Medicine/Engineering 
 
