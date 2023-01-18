@@ -32,6 +32,7 @@ Harvard University, Cambridge, USA
 -   Developed customized Python script for drug discovery platform
 
 **Postdoctoral Fellow at Bar-Ilan University, Faculty of Medicine/Engineering**	                                   2014-2017 
+
 Supervisors: Dr. Meital Gal-Tanami and Prof. Gur Yaari 
 Topic: Analysis of Next Generation Sequencing data from human liver cancer samples
 -    Developed a bioinformatic pipeline for analysis of genomic sequencing data
@@ -41,6 +42,7 @@ Topic: Analysis of Next Generation Sequencing data from human liver cancer sampl
 -	Lab research and management 
 
 **Postdoctoral Fellow at Harvard University, FAS center for Systems Biology**		    	                   2010-2012
+
 Supervisor: Prof. Erel Levine
 Topic: sRNA regulation in bacteria and stem cell dynamics in C. elegans
 -    Data analysis
@@ -48,6 +50,7 @@ Topic: sRNA regulation in bacteria and stem cell dynamics in C. elegans
 -    Provided technical expertise in Molecular biology, training students
 
 **PhD at Weizmann Institute of Science**        						                   2005-2009
+
 Supervisor: Prof. Michael Fainzilber	
 Topic: Network analysis and intercellular interactions of Necdin, a gene involved in a neurogenetic disorder in humans
 
@@ -59,16 +62,19 @@ Topic: Network analysis and intercellular interactions of Necdin, a gene involve
 Biochemistry lab course
 
 **MSc at Tel-Aviv University, Department of Biochemistry**	 				                   2002-2004
+
 Supervisor: Prof. Nathan Nelson
 Topic: Structural biology of membrane proteins over-expressed in bacteria
 -    Developed protocols for membrane protein purification
 -    Participated in patent writing 
 
 **assistant at Tel-Aviv University, Department of Biochemistry**			                      2002
+
 Supervisor: Prof. Nathan Nelson
 Topic: The role of unit V in the function of V-ATPase in yeast
 
 **Research assistant at Tel-Aviv University, Department of Plant Sciences**				              2001
+
 Supervisor: Prof. Nir Ohad
 Topic: The role of polycomb genes in tomato development
 		
