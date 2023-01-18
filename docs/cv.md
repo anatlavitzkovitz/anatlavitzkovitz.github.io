@@ -59,6 +59,7 @@ Topic: Network analysis and intercellular interactions of Necdin, a gene involve
 -    Extensive experience with microscopy systems
  
 **Student instructor in Tel-Aviv University, Department of Biochemistry**				           2003-2004
+
 Biochemistry lab course
 
 **MSc at Tel-Aviv University, Department of Biochemistry**	 				                   2002-2004
