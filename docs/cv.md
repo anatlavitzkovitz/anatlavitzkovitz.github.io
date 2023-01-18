@@ -21,7 +21,7 @@ Harvard University, Cambridge, USA
 
 
 ## Professional experience 
-> **Bioinformatician at Hazera seeds**    					                                   2018-
+**Bioinformatician at Hazera seeds**    					                                   2018-
 -	Lead and support global and internal R&D projects
 -	Develop analysis pipelines for NGS data
 -	Write scripts for data download, analysis, and statistics
@@ -77,8 +77,8 @@ Topic: The role of polycomb genes in tomato development
 
 <ins>Molecular Biology:</ins> Molecular cloning, Gateway cloning, site-directed mutagenesis, gel electrophoresis, PCR, qPCR, DNA and RNA purification from different organisms 
 ‬‬‬‬‬‬‬‬‬‬‬‬‬‬
-<ins>Biochemistry:</ins> Western Blots, SDS-PAGE, immunoprecipitation, recombinant protein expression and   ‬‬‬‬‬‬‬‬‬‬‬‬‬‬
-purification (affinity purification, ion-exchange), sucrose gradient, protein- ‬‬‬‬‬‬protein interaction screen in yeast 
+
+<ins>Biochemistry:</ins> Western Blots, SDS-PAGE, immunoprecipitation, recombinant protein expression and ‬‬‬‬‬‬‬‬‬‬purification (affinity purification, ion-exchange), sucrose gradient, protein- ‬‬‬‬‬‬protein interaction screen in yeast 
 
 <ins>Cell Biology:</ins> Cell culture, transfections, plant tissue culture and transformation, immunofluorescence, epifluorescence and   ‬‬‬‬‬‬‬‬‬confocal microscopy and analysis, live cell imaging, RNAi, flow cytometry, ‬‬‬‬‬‬‬‬‬‬‬‬‬viability assays, C. elegans techniques
 
