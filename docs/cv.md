@@ -8,8 +8,7 @@ Email: anat.lavitz@gmail.com
 
 ## Education
 
-<ins>2014-2017<ins/>	    
-Postdoctoral Fellow at Bar-Ilan University, Faculty of Medicine/Engineering 
+<ins>2014-2017<ins/> Postdoctoral Fellow at Bar-Ilan University, Faculty of Medicine/Engineering 
 
 <ins>2010-2012<ins/> 	    Postdoctoral Fellow at the FAS center for Systems Biology, Physics Department,  
 Harvard University, Cambridge, USA
