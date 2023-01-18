@@ -7,12 +7,17 @@ Hello world!
 * [GitHub account](https://github.com/anatlavitzkovitz)
 
 * List of people from the course in dev.to:
+
 @shulyavraham
+
 @adieg
+
 @yoadk
+
 @silent_mobius
+
 @dshisher
-@anatlavitzkovitz
+
 @avivyunker
 
 * [osdc course link](https://osdc.code-maven.com/)
