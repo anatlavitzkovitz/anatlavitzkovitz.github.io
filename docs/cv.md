@@ -78,12 +78,12 @@ Topic: The role of polycomb genes in tomato development
 ## Technical skills
 <ins>Computation and bioinformatics:</ins> Python, R, Linux, NGS analysis from both Illumina and Oxford Nanopore Technologies sequencing, Bash scripting, experience in cloud-based environment, Git repository, statistical data analysis, public databases (UCSC, Cosmic, Ensembl, HMP, dbSNP), microbiome analysis (MetaPhlAn, De Novo assembly tools), clustering analysis, biological network analysis (IntAct, VisANT), LaTeX. 
 
-<ins>Molecular Biology:</ins> Molecular cloning, Gateway cloning, site-directed mutagenesis, gel electrophoresis, PCR, qPCR, DNA and RNA purification from different organisms 
+<ins>Molecular Biology</ins>: Molecular cloning, Gateway cloning, site-directed mutagenesis, gel electrophoresis, PCR, qPCR, DNA and RNA purification from different organisms 
 ‬‬‬‬‬‬‬‬‬‬‬‬‬‬
 
-<ins>Biochemistry:</ins> Western Blots, SDS-PAGE, immunoprecipitation, recombinant protein expression and ‬‬‬‬‬‬‬‬‬‬purification (affinity purification, ion-exchange), sucrose gradient, protein- ‬‬‬‬‬‬protein interaction screen in yeast 
+<ins>Biochemistry</ins>: Western Blots, SDS-PAGE, immunoprecipitation, recombinant protein expression and ‬‬‬‬‬‬‬‬‬‬purification (affinity purification, ion-exchange), sucrose gradient, protein- ‬‬‬‬‬‬protein interaction screen in yeast 
 
-<ins>Cell Biology:</ins> Cell culture, transfections, plant tissue culture and transformation, immunofluorescence, epifluorescence and   ‬‬‬‬‬‬‬‬‬confocal microscopy and analysis, live cell imaging, RNAi, flow cytometry, ‬‬‬‬‬‬‬‬‬‬‬‬‬viability assays, C. elegans techniques
+<ins>Cell Biology</ins>: Cell culture, transfections, plant tissue culture and transformation, immunofluorescence, epifluorescence and   ‬‬‬‬‬‬‬‬‬confocal microscopy and analysis, live cell imaging, RNAi, flow cytometry, ‬‬‬‬‬‬‬‬‬‬‬‬‬viability assays, C. elegans techniques
 
 ## Publications and patents
 	
