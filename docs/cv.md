@@ -2,10 +2,6 @@
 Highly experienced and motivated bioinformatician with strong background in experimental biology. Expertise include R and Python programming, NGS analysis, pipeline development, MySQL and hands-on experience in molecular biology and biochemistry
 
 
-## Personal details
-
-Email: anat.lavitz@gmail.com
-
 ## Education
 
 <ins>2014-2017</ins> Postdoctoral Fellow at Bar-Ilan University, Faculty of Medicine/Engineering 
